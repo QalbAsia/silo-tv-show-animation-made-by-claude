@@ -6,6 +6,19 @@ The story of season 1 of the TV series *Silo*, told in 60 seconds without a sing
 
 Press **PLAY**. It looks best on a phone held upright, or in a tall browser window. Contains spoilers for season 1.
 
+<p align="center">
+  <img src="screenshots/1-the-silo.jpg" width="30%" alt="Looking down the great spiral stair of the silo, with the title SILO">
+  <img src="screenshots/2-the-screen.jpg" width="30%" alt="A crowd of silhouettes watching the dead world on the cafeteria screen">
+  <img src="screenshots/3-the-generator.jpg" width="30%" alt="Juliette in front of the huge generator wheel">
+</p>
+<p align="center">
+  <img src="screenshots/4-the-helmet.jpg" width="30%" alt="The green world shown inside the helmet, with trees and birds">
+  <img src="screenshots/5-the-truth.jpg" width="30%" alt="A figure in a cleaning suit facing a dead plain and a ruined city">
+  <img src="screenshots/6-not-alone.jpg" width="30%" alt="Seen from above: many identical craters, one silo in each">
+</p>
+
+These are frames from the film as it runs in the browser, not drawings.
+
 ## Made by Claude Opus 5.5
 
 The whole film was written by **Claude Opus 5.5** in Claude Code, from one short request in plain English: *"make a 1 minute animation for the Silo series, no voice, with sound effects and background music."* Claude wrote the 3D world, the characters, the camera, the editing and the sound, then opened the film in a browser and checked every shot itself.
